@@ -19,3 +19,7 @@
 # Enviromental file
 
 # Express (crud)
+
+# react photo view
+
+# The date is 11/10/2022 --> now I am noob, byt i try my best and one day i will be a good developer.
