@@ -11,3 +11,7 @@
 # Mongo db atlas
 
 # Mongo db node CRUD (mongo db for node)
+
+# vercel (server deplay)
+
+# firebase hosting
