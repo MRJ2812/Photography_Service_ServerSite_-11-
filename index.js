@@ -7,7 +7,7 @@ const port = process.env.PORT || 1001;
 // Need for enviromental file.
 require('dotenv').config()
 
-
+// This are middleware.
 app.use(cors());
 app.use(express.json());
 
