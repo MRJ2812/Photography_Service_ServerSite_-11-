@@ -15,3 +15,5 @@
 # vercel (server deplay)
 
 # firebase hosting
+
+# Enviromental file
